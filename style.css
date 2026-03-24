@@ -91,7 +91,7 @@ h1{
 #sponsors{
     display: flex;
     gap: 100px;
-    animation: slide 10s linear infinite;
+    animation: slide 20s linear infinite;
      width: max-content;
 }
 
@@ -523,6 +523,8 @@ transform: scale(1.1);
         overflow: hidden;
         width: 95%;
         margin-left: 20px;
+        margin: 35% 0 30% 20px;
+
     }
 
     #sponsors{
@@ -545,7 +547,8 @@ transform: scale(1.1);
     }
 
     #div-2{
-        margin-top: 80px;
+        margin: 90px 0;
+  
     }
 
     h2,
