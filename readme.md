@@ -10,7 +10,7 @@ Projeto realizado com a finalidade de aplicar meus conhecimentos de HTML e CSS.
 Link da aplicação: https://izabela-guimaraes.github.io/landing-page/
 
 
-## =📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 - A estilização do projeto foi realizada com Flexbox e técnicas de código limpo.
 - Layout responsivo com animações.
