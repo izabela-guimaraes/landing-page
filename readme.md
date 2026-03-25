@@ -5,10 +5,10 @@
 Projeto realizado com a finalidade de aplicar meus conhecimentos de HTML e CSS.
 
 ## 🚀 Demonstração:
-![preview](./assets/preview.gif)
+![preview](./animation.gif)
 
 https://izabela-guimaraes.github.io/landing-page/
-  <img src="./result.png" alt="preview"/>
+  <img src="./result.png" alt="preview" width: 80px height: 60px>
 
 ## =📌 Sobre o projeto
 
