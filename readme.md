@@ -7,8 +7,8 @@ Projeto realizado com a finalidade de aplicar meus conhecimentos de HTML e CSS.
 ## 🚀 Demonstração:
 ![preview](./animation.gif)
 
-https://izabela-guimaraes.github.io/landing-page/
-  <img src="./result.png" alt="preview" width: 80px height: 60px>
+Link da aplicação: https://izabela-guimaraes.github.io/landing-page/
+
 
 ## =📌 Sobre o projeto
 
