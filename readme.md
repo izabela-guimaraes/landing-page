@@ -5,8 +5,10 @@
 Projeto realizado com a finalidade de aplicar meus conhecimentos de HTML e CSS.
 
 ## 🚀 Demonstração:
+![preview](./assets/preview.gif)
 
 https://izabela-guimaraes.github.io/landing-page/
+  <img src="./result.png" alt="preview"/>
 
 ## =📌 Sobre o projeto
 
@@ -21,7 +23,10 @@ https://izabela-guimaraes.github.io/landing-page/
 
 
 ## 🧠 Desafios Técnicos Superados
-*Implementação de animação simulando digitação
+
+- Implementação de animação simulando digitação
+
+
 👩‍💻 Autora
 
 Desenvolvido por Izabela Guimarães
